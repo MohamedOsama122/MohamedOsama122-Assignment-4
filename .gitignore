@@ -1,0 +1,49 @@
+## Visual Studio / .NET Gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][INn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# BenchmarkDotNet artifacts
+BenchmarkDotNet.Artifacts/
+
+# Visual Studio 2015/2017/2019/2022 cache folder
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# CAD Auto-generated file
+AppFolder/
+
+# Windows image cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
