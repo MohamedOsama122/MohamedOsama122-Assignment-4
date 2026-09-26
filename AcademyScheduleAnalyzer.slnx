@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/leetCode/">
+    <File Path="leetCode/README.md.txt" />
+  </Folder>
+  <Folder Name="/LinkedIn/">
+    <File Path="LinkedIn/README.md.txt" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="BENCHMARK.md.txt" />
+  </Folder>
+  <Project Path="AcademyScheduleAnalyzer/AcademyScheduleAnalyzer.csproj" />
+</Solution>
